@@ -7,4 +7,4 @@ This will lead to creating added value where all IP-owned companies, IP users, a
 
 * Telegram  : https://t.me/s/onbuff_official_kr
 * Medium : https://medium.com/@ONBUFF_OFFICIAL
-* White Paper : http://onbuff.com/pjtCom/down/ONBUFF_Whitepaper_EN.pdf
+* White Paper : https://onbuff.com/pjtCom/down/ONBUFF_Whitepaper_KR_103.pdf
